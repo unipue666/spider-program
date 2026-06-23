@@ -227,10 +227,6 @@ package.json
 .idea/
 *.iml
 
-# Python缓存
-__pycache__/
-*.pyc
-*.log
 
 # 数据库缓存
 *.mongodb
