@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Node依赖
+node_modules/
+package-lock.json
+package.json
+
+# PyCharm配置
+.idea/
+*.iml
+
+# Python缓存
+__pycache__/
+*.pyc
+*.log
+
+# 数据库缓存
+*.mongodb
+*.redis
